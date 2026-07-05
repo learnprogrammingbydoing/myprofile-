@@ -1,3 +1,3 @@
 # myprofile-
 This is about my profile.<br>
-Author: Manish Bhandari
+Author: Manish Bhandari(Gaja)
